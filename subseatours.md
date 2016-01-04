@@ -1,6 +1,6 @@
 # Contract
 ### Between Lauren Barker of Web LB Designs 
-and Kevin Winfield of Sub Sea Tours 
+### and Kevin Winfield of Sub Sea Tours 
 
 ## Summary: 
 
